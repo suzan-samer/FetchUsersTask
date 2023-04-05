@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "title": "Bouclé Tank",
+      "price": 40,
+      "image": "https://www.clubmonaco.com/dw/image/v2/BGJB_PRD/on/demandware.static/-/Sites-masterCatalog_ClubMonaco/default/dw134b006c/hi-res/cm-295899022002_alternate4.jpg?sw=1000&sh=1250&sfrm=jpg",
+      "id": 5
+    },
+    {
+      "title": "Tab Detail Trouser",
+      "price": 450,
+      "image": "https://www.clubmonaco.com/dw/image/v2/BGJB_PRD/on/demandware.static/-/Sites-masterCatalog_ClubMonaco/default/dw30549d44/hi-res/cm-295873284001_alternate4.jpg?sw=1000&sh=1250&sfrm=jpg",
+      "id": 6
+    },
+    {
+      "title": "Ribbed Cardigan Dress",
+      "price": 440,
+      "image": "https://www.clubmonaco.com/dw/image/v2/BGJB_PRD/on/demandware.static/-/Sites-masterCatalog_ClubMonaco/default/dw7a74ee43/hi-res/cm-295851445228_alternate4.jpg?sw=1000&sh=1250&sfrm=jpg",
+      "id": 7
+    },
+    {
+      "title": "Rib Ruched Top",
+      "price": 120,
+      "image": "https://www.clubmonaco.com/dw/image/v2/BGJB_PRD/on/demandware.static/-/Sites-masterCatalog_ClubMonaco/default/dw95ceb4d6/hi-res/cm-295910321001_alternate2.jpg?sw=1000&sh=1250&sfrm=jpg",
+      "id": 8
+    }
+  ]
+}
